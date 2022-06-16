@@ -1,13 +1,13 @@
 [user]
-	name = Lars Kappert
-	email = lars@webpro.nl
+	name = Daria Serkova
+	email = miss.dariaserkova@yandex.ru
 
 [github]
-	user = webpro
+	user = dariaserkova
 
 [core]
 	excludesfile = ~/.config/git/ignore
-	editor = code --wait
+	editor = vim
 	filemode = false
 	trustctime = false
 	autocrlf = input

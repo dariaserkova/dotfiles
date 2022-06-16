@@ -11,14 +11,13 @@ The hyper key is defined as `⌘ + ⌥ + ⌃` (control + option + command). Pres
 
 | Key | App                |
 | --- | ------------------ |
-| C   | Google Chrome      |
-| E   | Editor (VS Code)   |
+| C   | Visual Studio Code |
 | F   | Finder             |
 | G   | SourceTree (Git)   |
-| M   | Mail               |
+| B   | Bitwarden          |
 | P   | System Preferences |
-| S   | Spotify            |
-| T   | Terminal           |
+| Q   | iTerm              |
+| T   | Telegram           |
 
 ## Window Management
 
