@@ -31,10 +31,6 @@ if is-macos; then
   done
 fi
 
-# Set LSCOLORS
-
-eval "$(dircolors -b "$DOTFILES_DIR"/system/.dir_colors)"
-
 # Clean up
 
 unset CURRENT_SCRIPT SCRIPT_PATH DOTFILE

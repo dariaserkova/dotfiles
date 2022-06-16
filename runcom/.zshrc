@@ -1,5 +1,5 @@
 
-export ZSH="/Users/dariaserkova/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="sunrise"
 CASE_SENSITIVE="true"
 # DISABLE_UPDATE_PROMPT="true"
