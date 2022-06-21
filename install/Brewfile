@@ -32,4 +32,5 @@ brew "topgrade"
 brew "tree"
 brew "unar"
 brew "wget"
-
+brew "gnupg"
+brew "pinentry-mac"
