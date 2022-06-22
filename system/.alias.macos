@@ -8,10 +8,6 @@ alias gg="$DOTFILES_GIT_GUI"
 
 alias cask="brew cask"
 
-# Exclude macOS specific files in ZIP archives
-
-alias zip="zip -x *.DS_Store -x *__MACOSX* -x *.AppleDouble*"
-
 # Open iOS Simulator
 
 alias ios="open /Applications/Xcode.app/Contents/Developer/Applications/iOS\ Simulator.app"
