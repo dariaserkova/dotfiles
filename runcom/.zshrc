@@ -26,3 +26,12 @@ source ~/.bash_profile
 
 export GPG_TTY=$(tty)
 gpgconf --launch gpg-agent
+
+# The next line updates PATH for Yandex Cloud CLI.
+if [ -f ~/yandex-cloud/path.bash.inc ]; then source ~/yandex-cloud/path.bash.inc; fi
+
+# The next line enables shell command completion for yc.
+if [ -f ~/yandex-cloud/completion.zsh.inc ]; then source ~/yandex-cloud/completion.zsh.inc; fi
+
+# direnv hook
+eval "$(direnv hook zsh)"
