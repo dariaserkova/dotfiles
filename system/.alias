@@ -1,6 +1,6 @@
 # Shortcuts
 
-alias g="git"
+alias docker="nerdctl"
 
 # Default options
 
