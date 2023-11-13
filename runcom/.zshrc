@@ -24,6 +24,8 @@ PS1='$(kube_ps1)'$PS1$'\n''🐼 '
 
 source ~/.bash_profile
 
+# On first time run
+# echo "pinentry-program $(which pinentry-mac)" >> ~/.gnupg/gpg-agent.conf
 export GPG_TTY=$(tty)
 gpgconf --launch gpg-agent
 
