@@ -7,9 +7,7 @@ cask "font-hack"
 cask "hammerspoon"
 cask "kaleidoscope2"
 cask "postman"
-cask "sourcetree"
 cask "visual-studio-code"
-cask "vlc"
 
 # Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins)
 cask "qlcolorcode"
