@@ -18,8 +18,8 @@
 [credential]
 	helper = osxkeychain
 
-[includeIf "gitdir:~/work/"]
-	path = ~/work/.gitconfig
+[includeIf "gitdir:~/work/gitlab/"]
+	path = ~/work/gitlab/.gitconfig
 
 [pull]
 	rebase = true
